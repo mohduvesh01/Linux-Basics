@@ -1,2 +1,2 @@
 # Linux-Basics
-This repo contains Linux commands and my Day 1 practice logs.
+This repo contains Linux commands and my Daily practice logs.
